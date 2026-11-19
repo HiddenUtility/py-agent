@@ -1,5 +1,5 @@
 ---
-name: tdd-implement
+name: implement
 description: TDD（テスト駆動開発）を用いてエージェント機能を実装し、品質ガードを経て振り返りを行うスキル。
 ---
 
